@@ -1,2 +1,3 @@
-# commieblock
+# CommieBlock
+
 Blocking of infectious countries
